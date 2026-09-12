@@ -1,0 +1,17 @@
+# Large YOLO model weights
+*.pt
+
+# Power BI files
+*.pbix
+
+# System files
+/desktop.ini
+.DS_Store
+Thumbs.db
+
+# Python cache & environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
